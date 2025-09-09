@@ -65,8 +65,8 @@ Durante o desenvolvimento deste projeto, pude:
    ## 🖼️ Exemplo de saída
    
    📋 ================== RESUMO DO PEDIDO ==================
-🕒 Momento da compra: 09/09/2025 14:22:29
-📦 Status do pedido: PROCESSANDO
+     🕒 Momento da compra: 09/09/2025 14:22:29
+     📦 Status do pedido: PROCESSANDO
 
 👤 Dados do cliente:
    🧑 Nome: Matheus
@@ -82,4 +82,4 @@ Durante o desenvolvimento deste projeto, pude:
 
    ##
    ```bash
-   git clone <URL_DO_REPO>
+   git clone < https://github.com/Rian144hz/OrderSummaryApp.git>
